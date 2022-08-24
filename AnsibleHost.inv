@@ -1,0 +1,2 @@
+[webservers]
+192.168.68.63 ansible_user=akshay
